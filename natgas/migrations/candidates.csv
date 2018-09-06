@@ -1,0 +1,11 @@
+reaction_id
+[CH2]O[O]_m3>>C1OO1_m1
+[CH2]C(=O)O[O]_m3>>O=C1COO1_m1
+C[CH]C[O]_m3>>CC1CO1_m1
+[O]CC([O])=O_m3>>O=C1COO1_m1
+[O]C[O]_m3>>C1OO1_m1
+[CH2]C[C]=O_m3>>O=C1CC1_m1
+[O]C([O])=O_m3>>O=C1OO1_m1
+[CH]C=O_m3>>C1=CO1_m1
+C=C1OC1C_m1>>CC1CC1=O_m1
+O=C[CH]OCC=O_m2>>[O]C(C=O)CC=O_m2

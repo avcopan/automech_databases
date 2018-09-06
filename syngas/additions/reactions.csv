@@ -1,0 +1,7 @@
+reaction_id,x_idx,y_idx,xy_idx_x,xy_idx_y
+[H]_m2.[O][O]_m3>>[O]O_m2,0,1,2,1
+[H]_m2.O=C=O_m1>>O=[C]O_m2,0,0,3,2
+O=[C]O_m2.[O][O]_m3>>[O]OC(=O)O_m2,1,1,2,1
+[OH]_m2.O=C=O_m1>>[O]C(=O)O_m2,0,1,3,1
+[H]_m2.O=C=O_m1>>[O]C=O_m2,0,1,3,1
+[O]O_m2.O=C=O_m1>>[O]C(=O)OO_m2,0,1,3,1

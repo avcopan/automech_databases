@@ -67,10 +67,10 @@ O=[C]O_m2.[O][O]_m3>>[O]OC(=O)O_m2,falloff,addition
 [O]C(=O)O_m2>>[O]_m3.O=[C]O_m2,falloff,
 [H]_m2.O=C=O_m1>>[O]C=O_m2,falloff,addition
 [O][O]_m3.[CH]=O_m2>>[O]_m3.[O]C=O_m2,falloff,
-[O]C=O_m2>>O=[C]O_m2,falloff,migration
+[O]C=O_m2>>O=[C]O_m2,falloff,
 [O]C=O_m2>>[O]_m3.[CH]=O_m2,falloff,
 [O]O_m2.O=C=O_m1>>[O]C(=O)OO_m2,falloff,addition
-[O]C(=O)OO_m2>>[O]OC(=O)O_m2,falloff,migration
+[O]C(=O)OO_m2>>[O]OC(=O)O_m2,falloff,
 O_m1.[C-]#[O+]_m1>>[OH]_m2.[CH]=O_m2,falloff,abstraction
 [C-]#[O+]_m1.O_m1>>[H]_m2.O=[C]O_m2,falloff,
 [C-]#[O+]_m1.O_m1>>[H]_m2.[O]C=O_m2,falloff,
