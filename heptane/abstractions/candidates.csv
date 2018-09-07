@@ -1,0 +1,72 @@
+reaction_id,exception
+CC=[CH]_m2.[H]_m2>>C=C=C_m1.[H][H]_m1,
+CC=[CH]_m2.[CH3]_m2>>C=C=C_m1.C_m1,
+CC(O)[CH2]_m2.[O][O]_m3>>CC(=O)C_m1.O[O]_m2,
+C[CH]CO_m2.[O][O]_m3>>CCC=O_m1.O[O]_m2,
+[CH2]C#C_m2.[H]_m2>>C1=C[C]1_m3.[H][H]_m1,
+CC([O])(C)C_m2.[O][O]_m3>>CC1(C)OC1_m1.O[O]_m2,
+CC1(C)OC1_m1.[OH]_m2>>O=CC([CH2])C_m2.O_m1,
+CC1(C)OC1_m1.[H]_m2>>O=CC([CH2])C_m2.[H][H]_m1,
+CC1(C)OC1_m1.O[O]_m2>>O=CC([CH2])C_m2.OO_m1,
+CC1(C)OC1_m1.CO[O]_m2>>O=CC([CH2])C_m2.COO_m1,
+CC1(C)OC1_m1.[CH3]_m2>>O=CC([CH2])C_m2.C_m1,
+CC1(C)OC1_m1.[O]_m3>>O=CC([CH2])C_m2.[OH]_m2,
+CC1(C)OC1_m1.[O][O]_m3>>O=CC([CH2])C_m2.O[O]_m2,
+CC(=C)CCC(=C)C_m1.[H]_m2>>CC(=C)[CH]CC(=C)C_m2.[H][H]_m1,STREAM ioctl timeout
+CC(=C)CCC(=C)C_m1.[O][O]_m3>>CC(=C)[CH]CC(=C)C_m2.O[O]_m2,STREAM ioctl timeout
+CC(=C)CCC(=C)C_m1.[O]_m3>>CC(=C)[CH]CC(=C)C_m2.[OH]_m2,STREAM ioctl timeout
+CC(=C)CCC(=C)C_m1.[OH]_m2>>CC(=C)[CH]CC(=C)C_m2.O_m1,STREAM ioctl timeout
+CC(=C)CCC(=C)C_m1.O[O]_m2>>CC(=C)[CH]CC(=C)C_m2.OO_m1,STREAM ioctl timeout
+CC(=C)CCC(=C)C_m1.[CH3]_m2>>CC(=C)[CH]CC(=C)C_m2.C_m1,STREAM ioctl timeout
+CC=CCCC=CC_m1.[OH]_m2>>CC=C[CH]CC=CC_m2.O_m1,
+CC=CCCC=CC_m1.[OH]_m2>>CC=CCCC=C[CH2]_m2.O_m1,
+CC=CCCC=CC_m1.O[O]_m2>>CC=C[CH]CC=CC_m2.OO_m1,
+CC=CCCC=CC_m1.O[O]_m2>>CC=CCCC=C[CH2]_m2.OO_m1,
+CC=CCCC=CC_m1.[H]_m2>>CC=C[CH]CC=CC_m2.[H][H]_m1,
+CC=CCCC=CC_m1.[H]_m2>>CC=CCCC=C[CH2]_m2.[H][H]_m1,
+CC=CCCC=CC_m1.[O]_m3>>CC=C[CH]CC=CC_m2.[OH]_m2,
+CC=CCCC=CC_m1.[O]_m3>>CC=CCCC=C[CH2]_m2.[OH]_m2,
+CC=CCCC=CC_m1.[CH3]_m2>>CC=C[CH]CC=CC_m2.C_m1,
+CC=CCCC=CC_m1.[CH3]_m2>>CC=CCCC=C[CH2]_m2.C_m1,
+CC=CCCC=CC_m1.[O][O]_m3>>CC=C[CH]CC=CC_m2.O[O]_m2,
+CC=CCCC=CC_m1.[O][O]_m3>>CC=CCCC=C[CH2]_m2.O[O]_m2,
+O1CC=CC1_m1.[H]_m2>>[CH2]C=CC=O_m2.[H][H]_m1,
+O1CC=CC1_m1.[O]_m3>>[CH2]C=CC=O_m2.[OH]_m2,
+O1CC=CC1_m1.[OH]_m2>>[CH2]C=CC=O_m2.O_m1,
+O1CC=CC1_m1.O[O]_m2>>[CH2]C=CC=O_m2.OO_m1,
+O1CC=CC1_m1.[CH3]_m2>>[CH2]C=CC=O_m2.C_m1,
+O1CC=CC1_m1.CO[O]_m2>>[CH2]C=CC=O_m2.COO_m1,
+CCC(=C)O_m1.[OH]_m2>>C[CH]C(=C)O_m2.O_m1,
+CCC(=C)O_m1.O[O]_m2>>C[CH]C(=C)O_m2.OO_m1,
+CC(C)(C)C_m1.[O][O]_m3>>CC([CH2])(C)C_m2.O[O]_m2,STREAM ioctl timeout
+CC(C)(C)C_m1.[O]_m3>>CC([CH2])(C)C_m2.[OH]_m2,STREAM ioctl timeout
+CC(C)(C)C_m1.[H]_m2>>CC([CH2])(C)C_m2.[H][H]_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.[OH]_m2>>CC([CH2])(C)C_m2.O_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.O[O]_m2>>CC([CH2])(C)C_m2.OO_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.[CH3]_m2>>CC([CH2])(C)C_m2.C_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.C[O]_m2>>CC([CH2])(C)C_m2.CO_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.CO[O]_m2>>CC([CH2])(C)C_m2.COO_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.C[CH2]_m2>>CC([CH2])(C)C_m2.CC_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.C=[CH]_m2>>CC([CH2])(C)C_m2.C=C_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.[O]OC=O_m2>>CC([CH2])(C)C_m2.OOC=O_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.CC(=C)[CH]O_m2>>CC([CH2])(C)C_m2.CC(=C)CO_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.CC(=C)C[O]_m2>>CC([CH2])(C)C_m2.CC(=C)CO_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.O=C[C](C)C_m2>>CC([CH2])(C)C_m2.O=CC(C)C_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.OC[C]=C_m2>>CC([CH2])(C)C_m2.OCC=C_m1,STREAM ioctl timeout
+CC(C)(C)C_m1.[O]OCC(C)(C)C_m2>>CC([CH2])(C)C_m2.OOCC(C)(C)C_m1,STREAM ioctl timeout
+CC1(C)COC1_m1.[OH]_m2>>O=CC([CH2])(C)C_m2.O_m1,
+CC1(C)COC1_m1.O[O]_m2>>O=CC([CH2])(C)C_m2.OO_m1,
+CC1(C)COC1_m1.[H]_m2>>O=CC([CH2])(C)C_m2.[H][H]_m1,
+CCCCCCC_m1.[H]_m2>>CC[CH]CCCC_m2.[H][H]_m1,STREAM ioctl timeout
+CCCCCCC_m1.[OH]_m2>>CC[CH]CCCC_m2.O_m1,STREAM ioctl timeout
+CCCCCCC_m1.[O][O]_m3>>CC[CH]CCCC_m2.O[O]_m2,STREAM ioctl timeout
+CCCCCCC_m1.[CH3]_m2>>CC[CH]CCCC_m2.C_m1,STREAM ioctl timeout
+CCCCCCC_m1.[O]OC=O_m2>>CC[CH]CCCC_m2.OOC=O_m1,STREAM ioctl timeout
+CCCCCCC_m1.C=[CH]_m2>>CC[CH]CCCC_m2.C=C_m1,STREAM ioctl timeout
+CCCCCCC_m1.C[CH2]_m2>>CC[CH]CCCC_m2.CC_m1,STREAM ioctl timeout
+CCCCCCCO[O]_m2.CCCCCCC_m1>>CCCCCCCOO_m1.CC[CH]CCCC_m2,STREAM ioctl timeout
+CCCCCC(O[O])C_m2.CCCCCCC_m1>>CCCCCC(OO)C_m1.CC[CH]CCCC_m2,STREAM ioctl timeout
+CCCCC(O[O])CC_m2.CCCCCCC_m1>>CCCCC(OO)CC_m1.CC[CH]CCCC_m2,STREAM ioctl timeout
+CCCC(CC(=O)C)[O]_m2.[O][O]_m3>>CCCC(=O)CC(=O)C_m1.O[O]_m2,
+CCCCC(CC=O)[O]_m2.[O][O]_m3>>CCCCC(=O)CC=O_m1.O[O]_m2,
+CCC(CC(=O)CC)[O]_m2.[O][O]_m3>>CCC(=O)CC(=O)CC_m1.O[O]_m2,

@@ -1,0 +1,126 @@
+reaction_id,exception
+O1CC1_m1>>CC=O_m1,
+O1[CH]C1_m2>>C[C]=O_m2,
+O1[CH]C1_m2>>[CH2]C=O_m2,
+CC=C_m1>>C1CC1_m1,
+CC=C_m1>>C1CC1_m1,
+[O]CC=C_m2>>[CH2]OC=C_m2,
+[CH2]OC=C_m2>>[CH2]CC=O_m2,
+C1=CC1_m1>>CC#C_m1,
+C1=CC1_m1>>C=C=C_m1,
+CC1(C)OC1_m1>>O=CC(C)C_m1,
+[O]OC(C)(C)C_m2>>OOC([CH2])(C)C_m2,
+CC(=C)C[O]_m2>>[CH2]OC(=C)C_m2,
+[CH2]OC(=C)C_m2>>O=CC([CH2])C_m2,
+CC(=C)CO[O]_m2>>C[C]1COOC1_m2,
+CC(=C)CO[O]_m2>>CC1([CH2])COO1_m2,
+C[C]1COOC1_m2>>CC1(C[O])CO1_m2,
+CC1[CH]OOC1_m2>>CC(C=O)C[O]_m2,
+CC1([CH2])COO1_m2>>[CH2]OOC(=C)C_m2,
+CC1([CH2])COO1_m2>>CC1(C[O])CO1_m2,
+CC(C=C)[O]_m2>>[CH2]OCC=C_m2,
+[CH2]OCC=C_m2>>[CH2]CC(=O)C_m2,
+CC=CC[O]_m2>>[CH2]OC=CC_m2,
+[CH2]OC=CC_m2>>C[CH]CC=O_m2,
+CCC(O)[CH2]_m2>>C[CH]CCO_m2,
+CCC(O)[CH2]_m2>>[CH2]CCCO_m2,
+C=CC1CO1_m1>>C1CC=CO1_m1,
+C1CC=CO1_m1>>CC=CC=O_m1,
+CC#CC_m1>>C=CC=C_m1,
+CCC(OO)CC=O_m1>>CCC1CC(OO1)O_m1,
+CC(OO)CC(=O)C_m1>>CC1OOC(C1)(C)O_m1,
+CCC(=O)CCOO_m1>>CCC1(O)CCOO1_m1,
+[O]OCCC(C)C_m2>>OOCCC([CH2])C_m2,
+[O]OCCC(C)C_m2>>OOCC[C](C)C_m2,
+[O]OCCC(C)C_m2>>OOC[CH]C(C)C_m2,
+[O]OCC(C(OO)C)C_m2>>OOCC(C(OO)C)[CH2]_m2,
+[O]OCC(C(OO)C)C_m2>>OOC[C](C(OO)C)C_m2,
+[O]OCC(C(OO)C)C_m2>>OOCC(C(OO)[CH2])C_m2,
+C[CH]CCCC_m2>>CC[CH]CCC_m2,STREAM ioctl timeout
+CCCC(CCOO)O[O]_m2>>CCCC([CH]COO)OO_m2,
+CCCC(CCOO)O[O]_m2>>CC[CH]C(CCOO)OO_m2,
+CCCC(CCOO)O[O]_m2>>C[CH]CC(CCOO)OO_m2,
+CCCC(CCOO)O[O]_m2>>[CH2]CCC(CCOO)OO_m2,
+CCCCCC[CH2]_m2>>CC[CH]CCCC_m2,STREAM ioctl timeout
+C[CH]CCCCC_m2>>CC[CH]CCCC_m2,STREAM ioctl timeout
+CCCC(CCC)O[O]_m2>>CC[CH]C(CCC)OO_m2,STREAM ioctl timeout
+CCCCCC(COO)O[O]_m2>>CCCC[CH]C(COO)OO_m2,STREAM ioctl timeout
+CCCCCC(COO)O[O]_m2>>CCC[CH]CC(COO)OO_m2,STREAM ioctl timeout
+CCCCCC(COO)O[O]_m2>>CC[CH]CCC(COO)OO_m2,STREAM ioctl timeout
+CCCCCC(COO)O[O]_m2>>C[CH]CCCC(COO)OO_m2,STREAM ioctl timeout
+CCCCC(CCOO)O[O]_m2>>CCCCC([CH]COO)OO_m2,STREAM ioctl timeout
+CCCCC(CCOO)O[O]_m2>>CCC[CH]C(CCOO)OO_m2,STREAM ioctl timeout
+CCCCC(CCOO)O[O]_m2>>CC[CH]CC(CCOO)OO_m2,STREAM ioctl timeout
+CCCCC(CCOO)O[O]_m2>>C[CH]CCC(CCOO)OO_m2,STREAM ioctl timeout
+CCCCC(CCOO)O[O]_m2>>[CH2]CCCC(CCOO)OO_m2,STREAM ioctl timeout
+CCCC(CCCOO)O[O]_m2>>CCCC(C[CH]COO)OO_m2,STREAM ioctl timeout
+CCCC(CCCOO)O[O]_m2>>CCCC([CH]CCOO)OO_m2,STREAM ioctl timeout
+CCCC(CCCOO)O[O]_m2>>CC[CH]C(CCCOO)OO_m2,STREAM ioctl timeout
+CCCC(CCCOO)O[O]_m2>>C[CH]CC(CCCOO)OO_m2,STREAM ioctl timeout
+CCCC(CCCOO)O[O]_m2>>[CH2]CCC(CCCOO)OO_m2,STREAM ioctl timeout
+OOCCCCC(O[O])CC_m2>>OOC[CH]CCC(OO)CC_m2,STREAM ioctl timeout
+OOCCCCC(O[O])CC_m2>>OOCC[CH]CC(OO)CC_m2,STREAM ioctl timeout
+OOCCCCC(O[O])CC_m2>>OOCCC[CH]C(OO)CC_m2,STREAM ioctl timeout
+OOCCCCC(O[O])CC_m2>>OOCCCCC(OO)[CH]C_m2,STREAM ioctl timeout
+OOCCCCC(O[O])CC_m2>>OOCCCCC(OO)C[CH2]_m2,STREAM ioctl timeout
+CCCCCC(CO[O])OO_m2>>CCCC[CH]C(COO)OO_m2,STREAM ioctl timeout
+CCCCCC(CO[O])OO_m2>>CCC[CH]CC(COO)OO_m2,STREAM ioctl timeout
+CCCCCC(CO[O])OO_m2>>CC[CH]CCC(COO)OO_m2,STREAM ioctl timeout
+CC(C(O[O])CCCC)OO_m2>>[CH2]C(C(OO)CCCC)OO_m2,STREAM ioctl timeout
+CC(C(O[O])CCCC)OO_m2>>CC(C(OO)[CH]CCC)OO_m2,STREAM ioctl timeout
+CC(C(O[O])CCCC)OO_m2>>CC(C(OO)C[CH]CC)OO_m2,STREAM ioctl timeout
+CC(C(O[O])CCCC)OO_m2>>CC(C(OO)CC[CH]C)OO_m2,STREAM ioctl timeout
+CC(C(O[O])CCCC)OO_m2>>CC(C(OO)CCC[CH2])OO_m2,STREAM ioctl timeout
+CC(OO)CC(O[O])CCC_m2>>[CH2]C(OO)CC(OO)CCC_m2,STREAM ioctl timeout
+CC(OO)CC(O[O])CCC_m2>>CC(OO)[CH]C(OO)CCC_m2,STREAM ioctl timeout
+CC(OO)CC(O[O])CCC_m2>>CC(OO)CC(OO)[CH]CC_m2,STREAM ioctl timeout
+CC(OO)CC(O[O])CCC_m2>>CC(OO)CC(OO)C[CH]C_m2,STREAM ioctl timeout
+CC(OO)CC(O[O])CCC_m2>>CC(OO)CC(OO)CC[CH2]_m2,STREAM ioctl timeout
+OOC(CCC(O[O])CC)C_m2>>OOC(CCC(OO)CC)[CH2]_m2,STREAM ioctl timeout
+OOC(CCC(O[O])CC)C_m2>>OOC([CH]CC(OO)CC)C_m2,STREAM ioctl timeout
+OOC(CCC(O[O])CC)C_m2>>OOC(C[CH]C(OO)CC)C_m2,STREAM ioctl timeout
+OOC(CCC(O[O])CC)C_m2>>OOC(CCC(OO)[CH]C)C_m2,STREAM ioctl timeout
+OOC(CCC(O[O])CC)C_m2>>OOC(CCC(OO)C[CH2])C_m2,STREAM ioctl timeout
+OOC(CCCC(O[O])C)C_m2>>OOC(C[CH]CC(OO)C)C_m2,STREAM ioctl timeout
+OOC(CCCC(O[O])C)C_m2>>OOC([CH]CCC(OO)C)C_m2,STREAM ioctl timeout
+OOC(CCCC(O[O])C)C_m2>>OOC([CH]CCC(OO)C)C_m2,STREAM ioctl timeout
+OOC(CCCC(O[O])C)C_m2>>OOC(CCCC(OO)C)[CH2]_m2,STREAM ioctl timeout
+CCCCC(CCO[O])OO_m2>>CCCCC([CH]COO)OO_m2,STREAM ioctl timeout
+CCCCC(CCO[O])OO_m2>>CCC[CH]C(CCOO)OO_m2,STREAM ioctl timeout
+CCCCC(CCO[O])OO_m2>>CC[CH]CC(CCOO)OO_m2,STREAM ioctl timeout
+CC(C(OO)CCCC)O[O]_m2>>[CH2]C(C(OO)CCCC)OO_m2,STREAM ioctl timeout
+CC(C(OO)CCCC)O[O]_m2>>CC(C(OO)[CH]CCC)OO_m2,STREAM ioctl timeout
+CC(C(OO)CCCC)O[O]_m2>>CC(C(OO)C[CH]CC)OO_m2,STREAM ioctl timeout
+CC(C(OO)CCCC)O[O]_m2>>CC(C(OO)CC[CH]C)OO_m2,STREAM ioctl timeout
+CCCC(C(OO)CC)O[O]_m2>>CCCC(C(OO)C[CH2])OO_m2,STREAM ioctl timeout
+CCCC(C(OO)CC)O[O]_m2>>CCCC(C(OO)[CH]C)OO_m2,STREAM ioctl timeout
+CCCC(C(OO)CC)O[O]_m2>>CC[CH]C(C(OO)CC)OO_m2,STREAM ioctl timeout
+CCCC(C(OO)CC)O[O]_m2>>C[CH]CC(C(OO)CC)OO_m2,STREAM ioctl timeout
+CCCC(C(OO)CC)O[O]_m2>>[CH2]CCC(C(OO)CC)OO_m2,STREAM ioctl timeout
+CCC(CC(OO)CC)O[O]_m2>>CCC(CC(OO)C[CH2])OO_m2,STREAM ioctl timeout
+CCC(CC(OO)CC)O[O]_m2>>C[CH]C(CC(OO)CC)OO_m2,STREAM ioctl timeout
+CCC(CC(OO)CC)O[O]_m2>>CCC([CH]C(OO)CC)OO_m2,STREAM ioctl timeout
+CCC(CC(OO)CC)O[O]_m2>>C[CH]C(CC(OO)CC)OO_m2,STREAM ioctl timeout
+CCC(CC(OO)CC)O[O]_m2>>CCC(CC(OO)C[CH2])OO_m2,STREAM ioctl timeout
+[O]OC(CCC(OO)CC)C_m2>>OOC(CCC(OO)[CH]C)C_m2,STREAM ioctl timeout
+[O]OC(CCC(OO)CC)C_m2>>OOC(C[CH]C(OO)CC)C_m2,STREAM ioctl timeout
+[O]OC(CCC(OO)CC)C_m2>>OOC([CH]CC(OO)CC)C_m2,STREAM ioctl timeout
+[O]OC(CCC(OO)CC)C_m2>>OOC(CCC(OO)CC)[CH2]_m2,STREAM ioctl timeout
+[O]OCCCCC(OO)CC_m2>>OOCCC[CH]C(OO)CC_m2,STREAM ioctl timeout
+[O]OCCCCC(OO)CC_m2>>OOCC[CH]CC(OO)CC_m2,STREAM ioctl timeout
+[O]OCCCCC(OO)CC_m2>>OOC[CH]CCC(OO)CC_m2,STREAM ioctl timeout
+CCCC(CCCO[O])OO_m2>>CCCC(C[CH]COO)OO_m2,STREAM ioctl timeout
+CCCC(CCCO[O])OO_m2>>CCCC([CH]CCOO)OO_m2,STREAM ioctl timeout
+CCCC(CCCO[O])OO_m2>>CC[CH]C(CCCOO)OO_m2,STREAM ioctl timeout
+CC(O[O])CC(OO)CCC_m2>>[CH2]C(OO)CC(OO)CCC_m2,STREAM ioctl timeout
+CC(O[O])CC(OO)CCC_m2>>CC(OO)[CH]C(OO)CCC_m2,STREAM ioctl timeout
+CC(O[O])CC(OO)CCC_m2>>CC(OO)CC(OO)[CH]CC_m2,STREAM ioctl timeout
+CC(O[O])CC(OO)CCC_m2>>CC(OO)CC(OO)C[CH]C_m2,STREAM ioctl timeout
+CCCC(C(O[O])CC)OO_m2>>CCCC(C(OO)C[CH2])OO_m2,STREAM ioctl timeout
+CCCC(C(O[O])CC)OO_m2>>CCCC(C(OO)[CH]C)OO_m2,STREAM ioctl timeout
+CCCC(C(O[O])CC)OO_m2>>CC[CH]C(C(OO)CC)OO_m2,STREAM ioctl timeout
+CCCC(C(O[O])CC)OO_m2>>C[CH]CC(C(OO)CC)OO_m2,STREAM ioctl timeout
+CCCC(C(O[O])CC)OO_m2>>[CH2]CCC(C(OO)CC)OO_m2,STREAM ioctl timeout
+C1[CH]C=CC1_m2>>C=C[CH]C=C_m2,
+[CH2]C=CC#C_m2>>[CH]1C=CC=C1_m2,
+[O]C1C=CC=C1_m2>>[CH]=CC=CC=O_m2,
