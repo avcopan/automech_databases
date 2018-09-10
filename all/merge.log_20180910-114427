@@ -1,0 +1,4 @@
+Reading in /Users/adminavc/Documents/repos/automech_databases/syngas/reactions.csv
+Reading in /Users/adminavc/Documents/repos/automech_databases/natgas/reactions.csv
+Merging data frames...
+Writing reactions to reactions.csv
